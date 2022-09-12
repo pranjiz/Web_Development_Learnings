@@ -1,9 +1,9 @@
 # Web_Development_Learnings
 00--"HTML"
 
-🖼️ Image Resources:
- 🔲 Placeholder Image Generators:
-🔗▪️  21 of the Best
+🖼️ Image Resources:<br>
+ 🔲 Placeholder Image Generators:<br>
+🔗▪️  21 of the Best<br>
  🔲 Sites with Freely-Usable Images:
 🔗▪️  Unsplash.com
 🔗▪️  Pexels.com
