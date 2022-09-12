@@ -3,9 +3,9 @@
 
 🖼️ Image Resources:<br>
  🔲 Placeholder Image Generators:<br>
-    🔗 <a href="21 of the Best">21 of the Best</a><br>
+    🔗 <a href="https://loremipsum.io/21-of-the-best-placeholder-image-generators/">21 of the Best</a><br>
  🔲 Sites with Freely-Usable Images:<br>
-    🔗 Unsplash.com<br>
+    🔗 <a href="https://unsplash.com/">Unsplash.com</a><br>
     🔗 Pexels.com<br>
     🔗 Gratisography.com<br>
     🔗 Pixabay.com<br>
