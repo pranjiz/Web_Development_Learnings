@@ -3,7 +3,7 @@
 
 🖼️ Image Resources:<br>
  🔲 Placeholder Image Generators:<br>
-    🔗 21 of the Best<br>
+    🔗 <a href="21 of the Best">21 of the Best</a><br>
  🔲 Sites with Freely-Usable Images:<br>
     🔗 Unsplash.com<br>
     🔗 Pexels.com<br>
