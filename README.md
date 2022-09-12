@@ -1,5 +1,5 @@
 # Web_Development_Learnings
-"HTML"
+"HTML"<br>
 ⚙️ Free Web Dev Tools<br>
 <a href="https://chrome.google.com/webstore/detail/dark-new-tab/kcphhkbdlfggickaoeiahdcfhagfbajl?hl=en">Dark New Tab Chrome Extension</a><br>
 <a href="https://validator.w3.org/">W3C HTML Validator</a><br>
