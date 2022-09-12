@@ -16,6 +16,6 @@
 🔗 For Windows: <a href="https://www.irfanview.com/">Irfanview</a><br>
 🔲 Image Compression (shrink file size):<br>
 🔗 <a href="https://tinypng.com/">TinyPNG</a><br><br>
-📚 HTML Table References:
+📚 HTML Table References:<br>
 🔗 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics">MDN: Table Basics</a><br>
 🔗 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced">MDN: Advanced Tables and Accessibility</a><br>
