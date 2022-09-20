@@ -1,0 +1,51 @@
+/*
+
+*  {
+  border:1px solid red;  
+}
+
+*/
+
+/* 
+html{
+    font-size: 22px;  
+}
+*/
+
+/*
+main{
+    font-family:monospace;
+}
+*/
+body{
+    font-size: 22px;
+}
+
+h1, h2{
+    color: greenyellow;
+}
+
+.blue{
+    color: blue;
+}
+
+p{
+    color: blueviolet;
+}
+p{
+    color: brown;
+}
+p span{
+    text-transform: uppercase;
+    background-color: gold;
+}
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+
+
+#second{
+    font-style: italic;
+}
